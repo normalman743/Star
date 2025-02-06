@@ -1,0 +1,4 @@
+this claude3.5sonnet is based on gpt-4o. And use the prompt by anthoripic with 8000 characters system prompt limitation.
+
+
+the following is full prompt:
