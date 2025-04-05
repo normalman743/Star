@@ -9,6 +9,7 @@ The core idea behind Star is that individuals with expertise in various domains 
 ### 1. Teaching Assistant
 Currently, Star includes:
 - **Concept Explanation Assistant**: Helps in breaking down and explaining concepts effectively.
+https://github.com/normalman743/Star
 
 Planned features:
 - **Problem-Solving Expert**: Assists users in solving complex problems through structured and step-by-step responses.
